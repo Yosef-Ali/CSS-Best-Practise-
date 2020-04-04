@@ -51,8 +51,12 @@
 	}
 }
 ```
-![Breakpointes](images/img2.png)
+
+![Breakpointes](images/imge2.png)
+
 ![Breakpointes](images/img4.png)
+
 ![Breakpointes](images/img1.png)
+
 ![Breakpointes](images/img3.png)
 
