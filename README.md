@@ -1,6 +1,6 @@
 # css best practice
 
-###flued layout
+### flued layout
 
 ```css
 .content-wrap {
@@ -11,7 +11,7 @@
 }
 ```
 
-###Responsive Media Query
+### Responsive Media Query
 
 ```css
 /* Responsive
